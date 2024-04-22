@@ -1,0 +1,33 @@
+.rectangleBox {
+    width: 100vw;
+    height: 500px;
+}
+
+.sectionOne {
+    width: 100vw;
+    height: 100px;
+    background-color: green
+}
+
+.sectionThree {
+    background-color: #00008B;
+}
+
+.sectiontwo {
+    background-color: purple;
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
+
+div {
+    border: 3px solid red;
+}
+
+.nightSky{
+    width: 100vw;
+    height: 100px;
+    object-fit: fill;
+}
